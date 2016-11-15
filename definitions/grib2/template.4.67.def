@@ -1,0 +1,3 @@
+include "grib2/template.4.parameter_chemical_distribution.def";
+include "grib2/template.4.horizontal.def";
+include "grib2/template.4.statistical.def";
